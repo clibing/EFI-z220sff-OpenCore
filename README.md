@@ -1,5 +1,7 @@
 EFI
 
+GitHub: https://github.com/clibing/EFI-z220sff-OpenCore
+
 Big Sur 11.6.4 
 
 OpenCore 0.7.8
